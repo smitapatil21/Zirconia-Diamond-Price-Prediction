@@ -1,2 +1,2 @@
 # Zirconia-Diamond-Price-Prediction
-To [redict the price of Zirconia Diamond using Linear Regression
+The concepts of linear regression are tested and it is expected to predict the price of gems based on multiple variables to help company maximize profits.
